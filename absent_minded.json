@@ -1,0 +1,130 @@
+{
+    "editor": {
+        "enabled": false,
+        "minimap": {
+            "enabled": true
+        },
+        "mode": {
+            "split": {
+                "enabled": true
+            }
+        }
+    },
+    "view": {
+        "statusbar": {
+            "enabled": true
+        },
+        "mode": {
+            "centered": {
+                "enabled": false
+            },
+            "zen": {
+                "enabled": false
+            }
+        },
+        "zoom": 0.83
+    },
+    "sort": {
+        "dimension": "date_modified",
+        "order": "descending"
+    },
+
+
+    "themes": {
+        "active": "absent_minded-light",
+        "installed": {
+            "absent_minded-light": {
+                "id": "absent_minded-light",
+                "base": "light",
+                "title": "Absent Minded (Light)",
+                "colors": {
+                    "tabbar:tab:background": "#c0c0c0",
+                    "tabbar:tab:backgroundHover": "#d0d0d0",
+                    "tabbar:tab:backgroundActive": "#F5F5F5",
+                    "colors:primary:foreground": "#465360",
+                    "colors:secondary:background": "#228a96",
+                    "colors:secondary:foreground": "#ffffff",
+                    "sidebar:background": "#f2f2f2",
+                    "sidebar:foreground": "#465360",
+                    "middlebar:background": "#ffffff",
+                    "middlebar:foreground": "#465360",
+                    "mainbar:background": "#ffffff",
+                    "mainbar:foreground": "#465360",
+                    "toolbar:background": "#f7f7f7",
+                    "statusbar:background": "#228a96",
+                    "statusbar:foreground": "#ffffff",
+                    "titlebar:background": "#ccd2d9",
+                    "titlebar:foreground": "#465360",
+                    "titlebar:button:background": "#ccd2d9",
+                    "titlebar:button:backgroundHover": "hsl(212.3076923077, 14.606741573%, 79.5490196078%)",
+                    "titlebar:button:backgroundActive": "hsl(212.3076923077, 14.606741573%, 75.0490196078%)",
+                    "titlebar:button:close:background": "#ccd2d9",
+                    "scrollbar:thumb:background": "#46536035",
+                    "scrollbar:thumb:backgroundHover": "#228a9655",
+                    "scrollbar:thumb:backgroundActive": "#228a96aa",
+                    "editor:background": "#ffffff",
+                    "editor:foreground": "#465360",
+                    "editor:cursor:foreground": "#333333",
+                    "editor:guide:background": "#e6e6e6",
+                    "editor:guide:backgroundActive": "#e6e6e6",
+                    "editor:gutter:background": "#ffffff",
+                    "editor:gutter:foreground": "#cccccc",
+                    "preview:background": "#ffffff",
+                    "preview:foreground": "#465360",
+                    "preview:blockquote:border": "hsl(0, 0%, 77%)",
+                    "preview:blockquote:foreground": "hsl(0, 0%, 80%)",
+                    "preview:heading:border": "hsl(0, 0%, 80%)",
+                    "preview:h6:foreground": "hsl(0, 0%, 80%)",
+                    "preview:hr:background": "hsl(0, 0%, 77%)",
+                    "preview:table:border": "hsl(0, 0%, 77%)",
+                    "preview:table:row:even:background": "rgba(34, 138, 150, 0.05)",
+                    "highlighter:tokens:default:foreground": "#465360",
+                    "highlighter:tokens:annotation:foreground": "#aeb9c4",
+                    "highlighter:tokens:attribute:name:foreground": "#aeb9c4",
+                    "highlighter:tokens:attribute:value:foreground": "#465360",
+                    "highlighter:tokens:attribute:value:html:foreground": "#465360",
+                    "highlighter:tokens:attribute:value:number:foreground": "#465360",
+                    "highlighter:tokens:attribute:value:unit:foreground": "#465360",
+                    "highlighter:tokens:attribute:value:xml:foreground": "#465360",
+                    "highlighter:tokens:comment:foreground": "#aeb9c4",
+                    "highlighter:tokens:constant:foreground": "#aeb9c4",
+                    "highlighter:tokens:deletion:foreground": "#aeb9c4",
+                    "highlighter:tokens:delimiter:foreground": "#465360",
+                    "highlighter:tokens:delimiter:html:foreground": "#465360",
+                    "highlighter:tokens:delimiter:xml:foreground": "#465360",
+                    "highlighter:tokens:emphasis:foreground": "#465360",
+                    "highlighter:tokens:insertion:foreground": "#aeb9c4",
+                    "highlighter:tokens:invalid:foreground": "#aeb9c4",
+                    "highlighter:tokens:keyword:foreground": "#ff0000",
+                    "highlighter:tokens:keyword:json:foreground": "#aeb9c4",
+                    "highlighter:tokens:meta:scss:foreground": "#aeb9c4",
+                    "highlighter:tokens:metatag:content:html:foreground": "#aeb9c4",
+                    "highlighter:tokens:metatag:html:foreground": "#aeb9c4",
+                    "highlighter:tokens:metatag:php:foreground": "#465360",
+                    "highlighter:tokens:metatag:xml:foreground": "#aeb9c4",
+                    "highlighter:tokens:number:foreground": "#aeb9c4",
+                    "highlighter:tokens:number:hex:foreground": "#aeb9c4",
+                    "highlighter:tokens:regexp:foreground": "#aeb9c4",
+                    "highlighter:tokens:strikethrough:foreground": "#465360",
+                    "highlighter:tokens:string:foreground": "#465360",
+                    "highlighter:tokens:string:link:foreground": "#aeb9c4",
+                    "highlighter:tokens:string:escape:foreground": "#aeb9c4",
+                    "highlighter:tokens:string:html:foreground": "#465360",
+                    "highlighter:tokens:string:key:json:foreground": "#aeb9c4",
+                    "highlighter:tokens:string:sql:foreground": "#aeb9c4",
+                    "highlighter:tokens:string:value:json:foreground": "#465360",
+                    "highlighter:tokens:string:yaml:foreground": "#465360",
+                    "highlighter:tokens:strong:foreground": "#465360",
+                    "highlighter:tokens:tag:foreground": "#aeb9c4",
+                    "highlighter:tokens:type:foreground": "#aeb9c4",
+                    "highlighter:tokens:variable:foreground": "#aeb9c4",
+                    "highlighter:tokens:variable:source:foreground": "#465360",
+                    "highlighter:tokens:variable:predefined:foreground": "#aeb9c4",
+                    "colors:primary:background": "hsl(0, 0%, 96%)",
+                    "preview:link:foreground": "#228a96",
+                    "list:header:background": "#fbfbfb"
+                }
+            }
+        }
+    }
+}
